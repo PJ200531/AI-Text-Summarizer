@@ -2,6 +2,9 @@
 Click on the link below for free try --->
 [ https://huggingface.co/spaces/PJ2005/ai-text-summarizer ]
 
+Example
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/415ae103-a93d-4121-89ef-3270de4e469a" />
+
 
 # AI Text Summarizer 📝✨
 
