@@ -1,3 +1,8 @@
+# TRY FOR FREE
+Click on the link below for free try --->
+[ https://huggingface.co/spaces/PJ2005/ai-text-summarizer ]
+
+
 # AI Text Summarizer 📝✨
 
 A simple yet powerful project built with **Python** and **Gradio**.  
